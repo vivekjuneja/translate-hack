@@ -21,6 +21,7 @@ This is first attempt, and I hope to make this more easy in future iterations. T
 1. Install Geektool : http://projects.tynsoe.org/en/geektool/download.php
 2. Install BetterTouchTool (in my case) :- http://www.bettertouchtool.net/
 3. Download the Git project
+4. Download goslate.py from https://bitbucket.org/zhuoqiang/goslate/raw/tip/goslate.py and save it inside the Git Project directory
 4. Setup Environment variable TRANSLATE_HELPER_DIRECTORY, and assign it with the path where the Git project resides
 5. Use Geektool to setup a File window. Point to the file "final_text" in the Git Project directory. Alternatively, you could use a Shell Window, and issue the command "cat" on the file "final_text" in the same Git Project directory. For a Shell window, assign the "property" : Refresh Every to 1 second. 
 6. Set up a keyboard shortcut in BetterTouchTool. Assign it to execute a terminal command. Copy the contents of run_translator.sh file and put it in the terminal command input. Save it, and reload the BetterTouchTool to enable the shortcut
