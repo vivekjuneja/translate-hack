@@ -1,6 +1,6 @@
 # translate-hack
 
-**UPDATE:** Thanks to http://hints.macworld.com/article.php?story=20081231012753422 , now I am able to use Keyboard shortcuts for invoking the shell command. Check the update in the run_translation.sh. You can use tools like BetterTouchTool to bind a keyboard shortcut to run a terminal command. The terminal command will be the contens of the run_translation.sh. 
+**UPDATE:** Thanks to http://hints.macworld.com/article.php?story=20081231012753422 , now I am able to use Keyboard shortcuts for invoking the shell command. Check the update in the run_translator.sh. You can use tools like BetterTouchTool to bind a keyboard shortcut to run a terminal command. The terminal command will be the contents of the run_translator.sh. 
 
 I have been working in a country for sometime where the choice of business communication is NOT english. This creates a practical challenge for me to keep translating all communication using the friendly Google Translate at all times.
 
